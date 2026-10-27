@@ -1,0 +1,12 @@
+{
+  "updated": "2026-10-27T00:00:00Z",
+  "mode": null,
+  "taskFormUrl": "",
+  "agents": {
+    "小真": { "status": "idle", "task": "" },
+    "點點": { "status": "idle", "task": "" },
+    "小票兒": { "status": "idle", "task": "" },
+    "樂樂": { "status": "idle", "task": "" },
+    "暖暖": { "status": "idle", "task": "" }
+  }
+}
